@@ -5,14 +5,23 @@
 
 
 Hi there, I'm Mansab Akhter! 👋
+
 🚀 About Me
 
 💻 Web Developer | Frontend Enthusiast
+
 🎓 Currently learning: JavaScript, React, etc.
+
 📍 Location: [Patna/Bihar]
+
 🌱 Interested in: Web Development, UI/UX Design
+
 🛠️ Skills & Technologies
+
 Languages: HTML, CSS, JavaScript, C, Python
+
 Frameworks: []
+
 Tools: Git, GitHub, VS Code
+
 📂 Featured Projects
